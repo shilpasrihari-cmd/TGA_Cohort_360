@@ -1,0 +1,251 @@
+message_id,question_intent,is_question,topic,recurring_question_theme,data_status
+TGA-SYN-M0001,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0002,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0003,reaction,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0004,explanation,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0005,explanation,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0006,explanation,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0007,discussion,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0008,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0009,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0010,reaction,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0011,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0012,explanation,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0013,explanation,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0014,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0015,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0016,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0017,discussion,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0018,discussion,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0019,explanation,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0020,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0021,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0022,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0023,clarification,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0024,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0025,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0026,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0027,explanation,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0028,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0029,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0030,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0031,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0032,question,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0033,reaction,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0034,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0035,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0036,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0037,explanation,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0038,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0039,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0040,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0041,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0042,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0043,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0044,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0045,explanation,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0046,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0047,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0048,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0049,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0050,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0051,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0052,explanation,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0053,question,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0054,discussion,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0055,explanation,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0056,reaction,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0057,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0058,reaction,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0059,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0060,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0061,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0062,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0063,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0064,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0065,question,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0066,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0067,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0068,explanation,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0069,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0070,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0071,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0072,explanation,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0073,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0074,discussion,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0075,explanation,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0076,question,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0077,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0078,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0079,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0080,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0081,explanation,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0082,question,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0083,reaction,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0084,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0085,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0086,discussion,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0087,reaction,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0088,reaction,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0089,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0090,explanation,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0091,clarification,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0092,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0093,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0094,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0095,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0096,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0097,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0098,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0099,discussion,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0100,reaction,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0101,question,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0102,explanation,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0103,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0104,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0105,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0106,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0107,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0108,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0109,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0110,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0111,reaction,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0112,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0113,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0114,explanation,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0115,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0116,explanation,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0117,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0118,explanation,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0119,explanation,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0120,clarification,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0121,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0122,discussion,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0123,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0124,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0125,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0126,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0127,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0128,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0129,explanation,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0130,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0131,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0132,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0133,reaction,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0134,clarification,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0135,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0136,explanation,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0137,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0138,explanation,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0139,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0140,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0141,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0142,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0143,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0144,explanation,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0145,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0146,explanation,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0147,clarification,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0148,explanation,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0149,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0150,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0151,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0152,explanation,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0153,discussion,False,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0154,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0155,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0156,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0157,explanation,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0158,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0159,explanation,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0160,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0161,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0162,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0163,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0164,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0165,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0166,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0167,explanation,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0168,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0169,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0170,explanation,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0171,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0172,reaction,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0173,explanation,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0174,reaction,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0175,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0176,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0177,question,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0178,explanation,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0179,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0180,clarification,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0181,question,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0182,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0183,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0184,reaction,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0185,question,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0186,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0187,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0188,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0189,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0190,question,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0191,discussion,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0192,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0193,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0194,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0195,discussion,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0196,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0197,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0198,question,True,AI Safety & Security,Privacy and data protection,SYNTHETIC DEMO DATA
+TGA-SYN-M0199,question,True,AI Foundations,Machine learning basics,SYNTHETIC DEMO DATA
+TGA-SYN-M0200,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0201,explanation,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0202,explanation,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0203,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0204,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0205,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0206,explanation,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0207,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0208,discussion,False,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0209,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0210,reaction,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0211,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0212,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0213,reaction,False,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0214,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0215,clarification,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0216,question,True,Project Implementation,Production monitoring,SYNTHETIC DEMO DATA
+TGA-SYN-M0217,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0218,question,True,Development Tools,API credential setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0219,discussion,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0220,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0221,question,True,Models & Architecture,Document chunking,SYNTHETIC DEMO DATA
+TGA-SYN-M0222,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0223,reaction,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0224,question,True,Models & Architecture,Retrieval quality,SYNTHETIC DEMO DATA
+TGA-SYN-M0225,clarification,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0226,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0227,explanation,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0228,discussion,False,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0229,question,True,Course Support,Session links,SYNTHETIC DEMO DATA
+TGA-SYN-M0230,discussion,False,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0231,clarification,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0232,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0233,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0234,question,True,Project Implementation,Application deployment,SYNTHETIC DEMO DATA
+TGA-SYN-M0235,discussion,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0236,question,True,AI Safety & Security,Prompt injection defenses,SYNTHETIC DEMO DATA
+TGA-SYN-M0237,clarification,True,Agentic AI,Tool calling,SYNTHETIC DEMO DATA
+TGA-SYN-M0238,question,True,Prompt Engineering,Structured outputs,SYNTHETIC DEMO DATA
+TGA-SYN-M0239,reaction,False,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0240,support_request,True,Development Tools,Python environment setup,SYNTHETIC DEMO DATA
+TGA-SYN-M0241,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0242,question,True,Prompt Engineering,Prompt structure,SYNTHETIC DEMO DATA
+TGA-SYN-M0243,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0244,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0245,question,True,Course Support,Recording access,SYNTHETIC DEMO DATA
+TGA-SYN-M0246,explanation,False,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0247,question,True,Agentic AI,Multi-agent orchestration,SYNTHETIC DEMO DATA
+TGA-SYN-M0248,question,True,AI Foundations,Training and inference,SYNTHETIC DEMO DATA
+TGA-SYN-M0249,explanation,False,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0250,support_request,True,Course Support,Recording access,SYNTHETIC DEMO DATA

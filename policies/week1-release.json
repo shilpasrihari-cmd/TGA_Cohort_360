@@ -1,0 +1,20 @@
+{
+  "version": "week1-v1",
+  "minimum_participants": 5,
+  "identity_review_required": true,
+  "one_snapshot_per_mode": true,
+  "geographies": ["global"],
+  "views": {
+    "all": [],
+    "agentic": ["Agentic AI"],
+    "models": ["Models & Architecture"],
+    "agentic-and-models": ["Agentic AI", "Models & Architecture"],
+    "foundations": ["AI Foundations"],
+    "prompts": ["Prompt Engineering"],
+    "safety": ["AI Safety & Security"],
+    "development": ["Development Tools"],
+    "projects": ["Project Implementation"],
+    "course-support": ["Course Support"],
+    "unclear": ["Other / Unclear"]
+  }
+}

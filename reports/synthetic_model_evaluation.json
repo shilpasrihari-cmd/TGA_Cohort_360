@@ -1,0 +1,288 @@
+{
+  "model": "all-MiniLM-L6-v2 (local CPU)",
+  "evaluated_messages": 250,
+  "evaluated_questions": 176,
+  "detection": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0
+  },
+  "topic_accuracy": 0.9715909090909091,
+  "topic_macro_f1": 0.9877450980392157,
+  "clustering": {
+    "precision": 1.0,
+    "recall": 0.16666666666666666,
+    "f1": 0.2857142857142857,
+    "accuracy": 0.5833333333333334,
+    "pairs": 12
+  },
+  "review_count": 76,
+  "confusion": {
+    "index": [
+      "AI Foundations",
+      "Agentic AI",
+      "Prompt Engineering",
+      "Models & Architecture",
+      "AI Safety & Security",
+      "Development Tools",
+      "Project Implementation",
+      "Course Support",
+      "Other / Unclear"
+    ],
+    "columns": [
+      "AI Foundations",
+      "Agentic AI",
+      "Prompt Engineering",
+      "Models & Architecture",
+      "AI Safety & Security",
+      "Development Tools",
+      "Project Implementation",
+      "Course Support",
+      "Other / Unclear"
+    ],
+    "data": [
+      [
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        20,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        23,
+        0,
+        0,
+        5
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        20,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        28,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ]
+  },
+  "errors": {
+    "index": [
+      30,
+      41,
+      48,
+      80,
+      111
+    ],
+    "columns": [
+      "text",
+      "topic_truth",
+      "topic_prediction",
+      "needs_review"
+    ],
+    "data": [
+      [
+        "How do I configure an API key locally without exposing it?",
+        "Development Tools",
+        "Other / Unclear",
+        true
+      ],
+      [
+        "How do I configure an API key locally without exposing it?",
+        "Development Tools",
+        "Other / Unclear",
+        true
+      ],
+      [
+        "How do I configure an API key locally without exposing it?",
+        "Development Tools",
+        "Other / Unclear",
+        true
+      ],
+      [
+        "How do I configure an API key locally without exposing it?",
+        "Development Tools",
+        "Other / Unclear",
+        true
+      ],
+      [
+        "How do I configure an API key locally without exposing it?",
+        "Development Tools",
+        "Other / Unclear",
+        true
+      ]
+    ]
+  },
+  "pair_results": {
+    "index": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "columns": [
+      "left",
+      "right",
+      "expected_same",
+      "predicted_same"
+    ],
+    "data": [
+      [
+        "Can a planner ask a calculator to do arithmetic?",
+        "How would an agent invoke a calculator function?",
+        true,
+        false
+      ],
+      [
+        "How can two agents divide a job?",
+        "What lets several agents share the work on one task?",
+        true,
+        true
+      ],
+      [
+        "Can I enforce a JSON schema on a response?",
+        "How do I make the output conform to a JSON schema?",
+        true,
+        false
+      ],
+      [
+        "How long should passages in my retrieval index be?",
+        "What length should each indexed text segment have?",
+        true,
+        false
+      ],
+      [
+        "How do I block malicious instructions in retrieved pages?",
+        "How can retrieved content be prevented from overriding system instructions?",
+        true,
+        false
+      ],
+      [
+        "Where can I replay the lesson?",
+        "How can I watch the class again?",
+        true,
+        false
+      ],
+      [
+        "How do I install numpy in a virtual environment?",
+        "How do I keep an API secret out of Git?",
+        false,
+        false
+      ],
+      [
+        "How does a planner invoke tools?",
+        "How do several agents coordinate their work?",
+        false,
+        false
+      ],
+      [
+        "How can I format instructions clearly?",
+        "How can I require valid JSON from the model?",
+        false,
+        false
+      ],
+      [
+        "How do I choose passage length for retrieval?",
+        "How do I improve retrieval ranking?",
+        false,
+        false
+      ],
+      [
+        "How do I prevent prompt injection?",
+        "How do I remove personal information before inference?",
+        false,
+        false
+      ],
+      [
+        "Where is the lesson replay?",
+        "Where is the invitation to the next class?",
+        false,
+        false
+      ]
+    ]
+  }
+}

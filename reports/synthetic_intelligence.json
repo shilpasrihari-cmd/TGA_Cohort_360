@@ -1,0 +1,61 @@
+{
+  "data_status": "Synthetic",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "messages": 792,
+  "questions": 784,
+  "review_questions": 164,
+  "topic_counts": [
+    {
+      "topic": "AI Foundations",
+      "question_count": 8
+    },
+    {
+      "topic": "AI Safety & Security",
+      "question_count": 8
+    },
+    {
+      "topic": "Agentic AI",
+      "question_count": 181
+    },
+    {
+      "topic": "Course Support",
+      "question_count": 76
+    },
+    {
+      "topic": "Development Tools",
+      "question_count": 67
+    },
+    {
+      "topic": "Models & Architecture",
+      "question_count": 165
+    },
+    {
+      "topic": "Other / Unclear",
+      "question_count": 4
+    },
+    {
+      "topic": "Project Implementation",
+      "question_count": 169
+    },
+    {
+      "topic": "Prompt Engineering",
+      "question_count": 106
+    }
+  ],
+  "category_counts": [
+    {
+      "category": "Learning",
+      "question_count": 675
+    },
+    {
+      "category": "Support",
+      "question_count": 109
+    }
+  ],
+  "detector": "Python rules",
+  "classifier": "Local embedding similarity to curated topic descriptions",
+  "clusterer": "Complete-link clustering of scikit-learn cosine distances (SciPy hierarchy)",
+  "theme_naming": "Local embedding similarity to curated names; no generated summaries",
+  "followup_selection": "Deterministic recurrence, participant and review rules"
+}

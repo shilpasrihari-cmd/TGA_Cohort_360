@@ -1,0 +1,25 @@
+data_status,theme,topic,question_count,participant_count,needs_review
+Synthetic,Tool calling,Agentic AI,63,55,True
+Synthetic,Multi-agent orchestration,Agentic AI,62,58,False
+Synthetic,Prompt structure,Prompt Engineering,60,58,False
+Synthetic,Vector databases,Models & Architecture,59,54,False
+Synthetic,Document chunking,Models & Architecture,56,54,True
+Synthetic,Agent evaluation,Agentic AI,56,52,False
+Synthetic,Structured outputs,Prompt Engineering,46,42,False
+Synthetic,Evaluation datasets,Project Implementation,46,42,False
+Synthetic,Retrieval quality,Models & Architecture,46,42,False
+Synthetic,Quality metrics,Project Implementation,43,42,False
+Synthetic,Session links,Course Support,41,39,True
+Synthetic,Recording access,Course Support,35,35,False
+Synthetic,Production monitoring,Project Implementation,32,32,False
+Synthetic,Python environment setup,Development Tools,31,28,False
+Synthetic,Application deployment,Project Implementation,27,26,False
+Synthetic,Application deployment,Project Implementation,21,20,False
+Synthetic,API credential setup,Development Tools,18,18,False
+Synthetic,API credential setup,Development Tools,18,18,False
+Synthetic,Machine learning basics,AI Foundations,4,4,False
+Synthetic,Training and inference,AI Foundations,4,4,False
+Synthetic,Prompt injection defenses,AI Safety & Security,4,4,False
+Synthetic,Privacy and data protection,AI Safety & Security,4,4,False
+Synthetic,Transformer attention,Models & Architecture,4,4,False
+Synthetic,Unclear question theme,Other / Unclear,4,4,True

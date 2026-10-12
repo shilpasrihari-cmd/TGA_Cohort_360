@@ -1,0 +1,251 @@
+message_id,participant_id,session_id,session_relative_seconds,timestamp,message,message_type,source_topic,has_identifiable_answer,data_status
+TGA-SYN-M0001,TGA-P001,TGA-SYN-WEEK1,8,T+00:00:08,The course recording link is not working; please help me access it.,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0002,TGA-P002,TGA-SYN-WEEK1,27,T+00:00:27,What deployment pattern should I choose for my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0003,TGA-P003,TGA-SYN-WEEK1,37,T+00:00:37,Thanks!,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0004,TGA-P004,TGA-SYN-WEEK1,50,T+00:00:50,The fictional course portal has separate areas for recordings and meeting links. This is a starting point.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0005,TGA-P005,TGA-SYN-WEEK1,69,T+00:01:09,"Clear instructions, examples and an output schema help make prompts easier to evaluate. This is a starting point.",fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0006,TGA-P006,TGA-SYN-WEEK1,91,T+00:01:31,"Clear instructions, examples and an output schema help make prompts easier to evaluate. A small example makes this concrete.",fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0007,TGA-P007,TGA-SYN-WEEK1,107,T+00:01:47,I plan to explore project implementation in a small fictional practice project.,fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0008,TGA-P008,TGA-SYN-WEEK1,117,T+00:01:57,How should I store API credentials in a local development environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0009,TGA-P009,TGA-SYN-WEEK1,126,T+00:02:06,How should I choose document chunk sizes for a retrieval pipeline?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0010,TGA-P010,TGA-SYN-WEEK1,134,T+00:02:14,Awesome!,fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0011,TGA-P011,TGA-SYN-WEEK1,146,T+00:02:26,How does machine learning find patterns in training examples?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0012,TGA-P012,TGA-SYN-WEEK1,157,T+00:02:37,Training adjusts model parameters using examples; inference applies them to new inputs.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0013,TGA-P013,TGA-SYN-WEEK1,167,T+00:02:47,"Clear instructions, examples and an output schema help make prompts easier to evaluate.",fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0014,TGA-P014,TGA-SYN-WEEK1,191,T+00:03:11,How do I install Python packages in a virtual environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0015,TGA-P015,TGA-SYN-WEEK1,212,T+00:03:32,How can I make language model responses follow a JSON schema?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0016,TGA-P016,TGA-SYN-WEEK1,231,T+00:03:51,How can I deploy my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0017,TGA-P017,TGA-SYN-WEEK1,248,T+00:04:08,I plan to explore models & architecture in a small fictional practice project.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0018,TGA-P018,TGA-SYN-WEEK1,271,T+00:04:31,I plan to explore prompt engineering in a small fictional practice project. I will compare notes afterward.,fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0019,TGA-P019,TGA-SYN-WEEK1,285,T+00:04:45,"A deployment checklist can include tests, monitoring and rollback planning. This is a starting point.",fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0020,TGA-P020,TGA-SYN-WEEK1,297,T+00:04:57,The course recording link is not working; please help me access it.,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0021,TGA-P021,TGA-SYN-WEEK1,313,T+00:05:13,What safeguards protect sensitive information in an AI workflow?,fictional_chat,AI Safety & Security,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0022,TGA-P022,TGA-SYN-WEEK1,332,T+00:05:32,What prompt structure works for clear instructions and few-shot examples?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0023,TGA-P023,TGA-SYN-WEEK1,350,T+00:05:50,Please explain the difference between model training and inference.,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0024,TGA-P024,TGA-SYN-WEEK1,358,T+00:05:58,How do I get a language model to return consistent JSON output?,fictional_chat,Prompt Engineering,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0025,TGA-P025,TGA-SYN-WEEK1,369,T+00:06:09,What prompt structure works for clear instructions and few-shot examples?,fictional_chat,Prompt Engineering,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0026,TGA-P026,TGA-SYN-WEEK1,385,T+00:06:25,How can I deploy my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0027,TGA-P027,TGA-SYN-WEEK1,399,T+00:06:39,"Clear instructions, examples and an output schema help make prompts easier to evaluate. We can test this with a toy project.",fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0028,TGA-P028,TGA-SYN-WEEK1,413,T+00:06:53,How should I choose document chunk sizes for a retrieval pipeline?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0029,TGA-P029,TGA-SYN-WEEK1,426,T+00:07:06,What is machine learning and how does it learn from data?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0030,TGA-P030,TGA-SYN-WEEK1,437,T+00:07:17,How can I make language model responses follow a JSON schema?,fictional_chat,Prompt Engineering,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0031,TGA-P031,TGA-SYN-WEEK1,446,T+00:07:26,How do I find the link to join the next class meeting?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0032,TGA-P032,TGA-SYN-WEEK1,454,T+00:07:34,How does an AI agent select and call external tools?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0033,TGA-P033,TGA-SYN-WEEK1,463,T+00:07:43,Great!,fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0034,TGA-P034,TGA-SYN-WEEK1,484,T+00:08:04,How do I defend an AI application from malicious prompt injection?,fictional_chat,AI Safety & Security,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0035,TGA-P035,TGA-SYN-WEEK1,507,T+00:08:27,Where can I access the recording of a course session?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0036,TGA-P036,TGA-SYN-WEEK1,517,T+00:08:37,What steps create a Python virtual environment with the right packages?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0037,TGA-P037,TGA-SYN-WEEK1,527,T+00:08:47,The fictional course portal has separate areas for recordings and meeting links. The next exercise explores this idea.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0038,TGA-P038,TGA-SYN-WEEK1,539,T+00:08:59,How can I avoid leaking private data to an AI model?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0039,TGA-P039,TGA-SYN-WEEK1,547,T+00:09:07,Where is the link for the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0040,TGA-P040,TGA-SYN-WEEK1,570,T+00:09:30,What is machine learning and how does it learn from data?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0041,TGA-P041,TGA-SYN-WEEK1,584,T+00:09:44,How do I find the link to join the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0042,TGA-P042,TGA-SYN-WEEK1,602,T+00:10:02,What steps create a Python virtual environment with the right packages?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0043,TGA-P043,TGA-SYN-WEEK1,624,T+00:10:24,How can I avoid leaking private data to an AI model?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0044,TGA-P044,TGA-SYN-WEEK1,647,T+00:10:47,How does machine learning find patterns in training examples?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0045,TGA-P045,TGA-SYN-WEEK1,663,T+00:11:03,"An agent can combine planning, tool calls and feedback to complete a bounded task. We can test this with a toy project.",fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0046,TGA-P046,TGA-SYN-WEEK1,685,T+00:11:25,How do I configure an API key locally without exposing it?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0047,TGA-P047,TGA-SYN-WEEK1,704,T+00:11:44,How can I coordinate multiple AI agents in a workflow?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0048,TGA-P048,TGA-SYN-WEEK1,727,T+00:12:07,What safeguards protect sensitive information in an AI workflow?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0049,TGA-P049,TGA-SYN-WEEK1,748,T+00:12:28,What deployment pattern should I choose for my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0050,TGA-P050,TGA-SYN-WEEK1,758,T+00:12:38,How do I monitor a deployed application in production?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0051,TGA-P051,TGA-SYN-WEEK1,780,T+00:13:00,How can I coordinate multiple AI agents in a workflow?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0052,TGA-P052,TGA-SYN-WEEK1,800,T+00:13:20,The fictional course portal has separate areas for recordings and meeting links.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0053,TGA-P053,TGA-SYN-WEEK1,810,T+00:13:30,What is the difference between training an AI model and using it for inference?,fictional_chat,AI Foundations,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0054,TGA-P054,TGA-SYN-WEEK1,829,T+00:13:49,I plan to explore ai safety & security in a small fictional practice project.,fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0055,TGA-P055,TGA-SYN-WEEK1,845,T+00:14:05,"Input validation, access controls and privacy review are useful layers in AI security.",fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0056,TGA-P056,TGA-SYN-WEEK1,867,T+00:14:27,Great!,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0057,TGA-P057,TGA-SYN-WEEK1,881,T+00:14:41,I cannot install a Python package in my virtual environment; please help.,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0058,TGA-P058,TGA-SYN-WEEK1,889,T+00:14:49,Awesome!,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0059,TGA-P059,TGA-SYN-WEEK1,908,T+00:15:08,Where can I access the recording of a course session?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0060,TGA-P060,TGA-SYN-WEEK1,931,T+00:15:31,How does machine learning find patterns in training examples?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0061,TGA-P001,TGA-SYN-WEEK1,948,T+00:15:48,What deployment pattern should I choose for my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0062,TGA-P002,TGA-SYN-WEEK1,962,T+00:16:02,How do I configure an API key locally without exposing it?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0063,TGA-P003,TGA-SYN-WEEK1,984,T+00:16:24,I cannot access the fictional course recording; can someone help?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0064,TGA-P004,TGA-SYN-WEEK1,1002,T+00:16:42,How do I install Python packages in a virtual environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0065,TGA-P005,TGA-SYN-WEEK1,1026,T+00:17:06,How does an AI agent select and call external tools?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0066,TGA-P006,TGA-SYN-WEEK1,1043,T+00:17:23,What prompt structure works for clear instructions and few-shot examples?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0067,TGA-P007,TGA-SYN-WEEK1,1055,T+00:17:35,How can I protect an AI application against prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0068,TGA-P008,TGA-SYN-WEEK1,1069,T+00:17:49,"Clear instructions, examples and an output schema help make prompts easier to evaluate. The next exercise explores this idea.",fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0069,TGA-P009,TGA-SYN-WEEK1,1086,T+00:18:06,What prompt structure works for clear instructions and few-shot examples?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0070,TGA-P010,TGA-SYN-WEEK1,1098,T+00:18:18,How do I configure an API key locally without exposing it?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0071,TGA-P011,TGA-SYN-WEEK1,1112,T+00:18:32,How should I store API credentials in a local development environment?,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0072,TGA-P012,TGA-SYN-WEEK1,1135,T+00:18:55,"An agent can combine planning, tool calls and feedback to complete a bounded task. This is a starting point.",fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0073,TGA-P013,TGA-SYN-WEEK1,1154,T+00:19:14,I cannot install a Python package in my virtual environment; please help.,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0074,TGA-P014,TGA-SYN-WEEK1,1167,T+00:19:27,I plan to explore ai foundations in a small fictional practice project.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0075,TGA-P015,TGA-SYN-WEEK1,1188,T+00:19:48,Retrieval supplies relevant context; transformer attention weights relationships between tokens. A small example makes this concrete.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0076,TGA-P016,TGA-SYN-WEEK1,1203,T+00:20:03,What is the difference between training an AI model and using it for inference?,fictional_chat,AI Foundations,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0077,TGA-P017,TGA-SYN-WEEK1,1220,T+00:20:20,How do I defend an AI application from malicious prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0078,TGA-P018,TGA-SYN-WEEK1,1235,T+00:20:35,Where is the recording from our fictional learning session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0079,TGA-P019,TGA-SYN-WEEK1,1250,T+00:20:50,What steps create a Python virtual environment with the right packages?,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0080,TGA-P020,TGA-SYN-WEEK1,1273,T+00:21:13,What is machine learning and how does it learn from data?,fictional_chat,AI Foundations,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0081,TGA-P021,TGA-SYN-WEEK1,1295,T+00:21:35,Retrieval supplies relevant context; transformer attention weights relationships between tokens. We can test this with a toy project.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0082,TGA-P022,TGA-SYN-WEEK1,1319,T+00:21:59,How does an AI agent select and call external tools?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0083,TGA-P023,TGA-SYN-WEEK1,1342,T+00:22:22,Awesome!,fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0084,TGA-P024,TGA-SYN-WEEK1,1358,T+00:22:38,How does machine learning find patterns in training examples?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0085,TGA-P025,TGA-SYN-WEEK1,1372,T+00:22:52,How can I make language model responses follow a JSON schema?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0086,TGA-P026,TGA-SYN-WEEK1,1384,T+00:23:04,I plan to explore project implementation in a small fictional practice project. I will compare notes afterward.,fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0087,TGA-P027,TGA-SYN-WEEK1,1408,T+00:23:28,Got it.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0088,TGA-P028,TGA-SYN-WEEK1,1431,T+00:23:51,Thanks!,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0089,TGA-P029,TGA-SYN-WEEK1,1449,T+00:24:09,What can improve the accuracy of retrieved documents in a RAG system?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0090,TGA-P030,TGA-SYN-WEEK1,1459,T+00:24:19,The fictional course portal has separate areas for recordings and meeting links. We can test this with a toy project.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0091,TGA-P031,TGA-SYN-WEEK1,1470,T+00:24:30,Can you explain how an AI agent chooses a tool to call?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0092,TGA-P032,TGA-SYN-WEEK1,1485,T+00:24:45,What can improve the accuracy of retrieved documents in a RAG system?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0093,TGA-P033,TGA-SYN-WEEK1,1498,T+00:24:58,What steps create a Python virtual environment with the right packages?,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0094,TGA-P034,TGA-SYN-WEEK1,1510,T+00:25:10,How should I structure instructions and examples in a prompt?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0095,TGA-P035,TGA-SYN-WEEK1,1531,T+00:25:31,How can I avoid leaking private data to an AI model?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0096,TGA-P036,TGA-SYN-WEEK1,1546,T+00:25:46,How can I deploy my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0097,TGA-P037,TGA-SYN-WEEK1,1565,T+00:26:05,How does machine learning find patterns in training examples?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0098,TGA-P038,TGA-SYN-WEEK1,1583,T+00:26:23,How do I find the link to join the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0099,TGA-P039,TGA-SYN-WEEK1,1607,T+00:26:47,I plan to explore prompt engineering in a small fictional practice project.,fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0100,TGA-P040,TGA-SYN-WEEK1,1628,T+00:27:08,Awesome!,fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0101,TGA-P041,TGA-SYN-WEEK1,1648,T+00:27:28,What is the difference between training an AI model and using it for inference?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0102,TGA-P042,TGA-SYN-WEEK1,1669,T+00:27:49,"An agent can combine planning, tool calls and feedback to complete a bounded task. A small example makes this concrete.",fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0103,TGA-P043,TGA-SYN-WEEK1,1685,T+00:28:05,What prompt structure works for clear instructions and few-shot examples?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0104,TGA-P044,TGA-SYN-WEEK1,1700,T+00:28:20,Where is the link for the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0105,TGA-P045,TGA-SYN-WEEK1,1721,T+00:28:41,How should I choose document chunk sizes for a retrieval pipeline?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0106,TGA-P046,TGA-SYN-WEEK1,1735,T+00:28:55,Where is the recording from our fictional learning session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0107,TGA-P047,TGA-SYN-WEEK1,1751,T+00:29:11,How can I coordinate multiple AI agents in a workflow?,fictional_chat,Agentic AI,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0108,TGA-P048,TGA-SYN-WEEK1,1771,T+00:29:31,What can improve the accuracy of retrieved documents in a RAG system?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0109,TGA-P049,TGA-SYN-WEEK1,1790,T+00:29:50,How do I get a language model to return consistent JSON output?,fictional_chat,Prompt Engineering,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0110,TGA-P050,TGA-SYN-WEEK1,1799,T+00:29:59,What chunk size should I choose for splitting documents in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0111,TGA-P051,TGA-SYN-WEEK1,1807,T+00:30:07,Nice!,fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0112,TGA-P052,TGA-SYN-WEEK1,1827,T+00:30:27,How do I install Python packages in a virtual environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0113,TGA-P053,TGA-SYN-WEEK1,1844,T+00:30:44,What is machine learning and how does it learn from data?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0114,TGA-P054,TGA-SYN-WEEK1,1854,T+00:30:54,"Input validation, access controls and privacy review are useful layers in AI security. This is a starting point.",fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0115,TGA-P055,TGA-SYN-WEEK1,1872,T+00:31:12,How do I improve document retrieval accuracy in RAG?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0116,TGA-P056,TGA-SYN-WEEK1,1889,T+00:31:29,Training adjusts model parameters using examples; inference applies them to new inputs. A small example makes this concrete.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0117,TGA-P057,TGA-SYN-WEEK1,1899,T+00:31:39,How do I configure an API key locally without exposing it?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0118,TGA-P058,TGA-SYN-WEEK1,1912,T+00:31:52,Retrieval supplies relevant context; transformer attention weights relationships between tokens. This is a starting point.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0119,TGA-P059,TGA-SYN-WEEK1,1936,T+00:32:16,"An agent can combine planning, tool calls and feedback to complete a bounded task. The next exercise explores this idea.",fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0120,TGA-P060,TGA-SYN-WEEK1,1944,T+00:32:24,Can you explain how an AI agent chooses a tool to call?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0121,TGA-P001,TGA-SYN-WEEK1,1967,T+00:32:47,How can I make language model responses follow a JSON schema?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0122,TGA-P002,TGA-SYN-WEEK1,1986,T+00:33:06,I plan to explore course support in a small fictional practice project.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0123,TGA-P003,TGA-SYN-WEEK1,2010,T+00:33:30,How do I install Python packages in a virtual environment?,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0124,TGA-P004,TGA-SYN-WEEK1,2026,T+00:33:46,Where is the recording from our fictional learning session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0125,TGA-P005,TGA-SYN-WEEK1,2049,T+00:34:09,How do I improve document retrieval accuracy in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0126,TGA-P006,TGA-SYN-WEEK1,2063,T+00:34:23,Where can I access the recording of a course session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0127,TGA-P007,TGA-SYN-WEEK1,2071,T+00:34:31,Where can I access the recording of a course session?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0128,TGA-P008,TGA-SYN-WEEK1,2089,T+00:34:49,What chunk size should I choose for splitting documents in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0129,TGA-P009,TGA-SYN-WEEK1,2106,T+00:35:06,Retrieval supplies relevant context; transformer attention weights relationships between tokens.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0130,TGA-P010,TGA-SYN-WEEK1,2128,T+00:35:28,How should I structure instructions and examples in a prompt?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0131,TGA-P011,TGA-SYN-WEEK1,2141,T+00:35:41,How do I monitor a deployed application in production?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0132,TGA-P012,TGA-SYN-WEEK1,2163,T+00:36:03,What should I monitor after deploying my AI application?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0133,TGA-P013,TGA-SYN-WEEK1,2181,T+00:36:21,Got it.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0134,TGA-P014,TGA-SYN-WEEK1,2201,T+00:36:41,Can you explain how an AI agent chooses a tool to call?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0135,TGA-P015,TGA-SYN-WEEK1,2225,T+00:37:05,How can I coordinate multiple AI agents in a workflow?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0136,TGA-P016,TGA-SYN-WEEK1,2244,T+00:37:24,"A deployment checklist can include tests, monitoring and rollback planning. A small example makes this concrete.",fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0137,TGA-P017,TGA-SYN-WEEK1,2254,T+00:37:34,How do I find the link to join the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0138,TGA-P018,TGA-SYN-WEEK1,2266,T+00:37:46,"A deployment checklist can include tests, monitoring and rollback planning.",fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0139,TGA-P019,TGA-SYN-WEEK1,2286,T+00:38:06,What deployment pattern should I choose for my AI application?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0140,TGA-P020,TGA-SYN-WEEK1,2310,T+00:38:30,What should I monitor after deploying my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0141,TGA-P021,TGA-SYN-WEEK1,2332,T+00:38:52,How can I protect an AI application against prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0142,TGA-P022,TGA-SYN-WEEK1,2348,T+00:39:08,What deployment pattern should I choose for my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0143,TGA-P023,TGA-SYN-WEEK1,2371,T+00:39:31,What safeguards protect sensitive information in an AI workflow?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0144,TGA-P024,TGA-SYN-WEEK1,2390,T+00:39:50,"An agent can combine planning, tool calls and feedback to complete a bounded task.",fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0145,TGA-P025,TGA-SYN-WEEK1,2404,T+00:40:04,How do I defend an AI application from malicious prompt injection?,fictional_chat,AI Safety & Security,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0146,TGA-P026,TGA-SYN-WEEK1,2427,T+00:40:27,A virtual environment isolates package dependencies for one Python project. The next exercise explores this idea.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0147,TGA-P027,TGA-SYN-WEEK1,2446,T+00:40:46,Please explain the difference between model training and inference.,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0148,TGA-P028,TGA-SYN-WEEK1,2459,T+00:40:59,Retrieval supplies relevant context; transformer attention weights relationships between tokens. The next exercise explores this idea.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0149,TGA-P029,TGA-SYN-WEEK1,2480,T+00:41:20,Where is the link for the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0150,TGA-P030,TGA-SYN-WEEK1,2493,T+00:41:33,How do I get a language model to return consistent JSON output?,fictional_chat,Prompt Engineering,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0151,TGA-P031,TGA-SYN-WEEK1,2513,T+00:41:53,What safeguards protect sensitive information in an AI workflow?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0152,TGA-P032,TGA-SYN-WEEK1,2536,T+00:42:16,Training adjusts model parameters using examples; inference applies them to new inputs. We can test this with a toy project.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0153,TGA-P033,TGA-SYN-WEEK1,2556,T+00:42:36,I plan to explore models & architecture in a small fictional practice project. I will compare notes afterward.,fictional_chat,Models & Architecture,,SYNTHETIC DEMO DATA
+TGA-SYN-M0154,TGA-P034,TGA-SYN-WEEK1,2580,T+00:43:00,What steps create a Python virtual environment with the right packages?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0155,TGA-P035,TGA-SYN-WEEK1,2602,T+00:43:22,How do I defend an AI application from malicious prompt injection?,fictional_chat,AI Safety & Security,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0156,TGA-P036,TGA-SYN-WEEK1,2625,T+00:43:45,What should I monitor after deploying my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0157,TGA-P037,TGA-SYN-WEEK1,2633,T+00:43:53,"A deployment checklist can include tests, monitoring and rollback planning. We can test this with a toy project.",fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0158,TGA-P038,TGA-SYN-WEEK1,2657,T+00:44:17,How should I store API credentials in a local development environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0159,TGA-P039,TGA-SYN-WEEK1,2670,T+00:44:30,"Input validation, access controls and privacy review are useful layers in AI security. A small example makes this concrete.",fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0160,TGA-P040,TGA-SYN-WEEK1,2691,T+00:44:51,My Python package is not working in the virtual environment; can someone help?,fictional_chat,Development Tools,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0161,TGA-P041,TGA-SYN-WEEK1,2714,T+00:45:14,My Python package is not working in the virtual environment; can someone help?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0162,TGA-P042,TGA-SYN-WEEK1,2736,T+00:45:36,How do I configure an API key locally without exposing it?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0163,TGA-P043,TGA-SYN-WEEK1,2746,T+00:45:46,Where is the link for the next class meeting?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0164,TGA-P044,TGA-SYN-WEEK1,2763,T+00:46:03,I cannot install a Python package in my virtual environment; please help.,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0165,TGA-P045,TGA-SYN-WEEK1,2779,T+00:46:19,How can I coordinate multiple AI agents in a workflow?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0166,TGA-P046,TGA-SYN-WEEK1,2803,T+00:46:43,How do I improve document retrieval accuracy in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0167,TGA-P047,TGA-SYN-WEEK1,2814,T+00:46:54,"A deployment checklist can include tests, monitoring and rollback planning. The next exercise explores this idea.",fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0168,TGA-P048,TGA-SYN-WEEK1,2824,T+00:47:04,What chunk size should I choose for splitting documents in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0169,TGA-P049,TGA-SYN-WEEK1,2843,T+00:47:23,How can I protect an AI application against prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0170,TGA-P050,TGA-SYN-WEEK1,2851,T+00:47:31,Training adjusts model parameters using examples; inference applies them to new inputs. This is a starting point.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0171,TGA-P051,TGA-SYN-WEEK1,2862,T+00:47:42,How should I structure instructions and examples in a prompt?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0172,TGA-P052,TGA-SYN-WEEK1,2879,T+00:47:59,Nice!,fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0173,TGA-P053,TGA-SYN-WEEK1,2901,T+00:48:21,A virtual environment isolates package dependencies for one Python project. This is a starting point.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0174,TGA-P054,TGA-SYN-WEEK1,2923,T+00:48:43,Got it.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0175,TGA-P055,TGA-SYN-WEEK1,2945,T+00:49:05,How should I choose document chunk sizes for a retrieval pipeline?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0176,TGA-P056,TGA-SYN-WEEK1,2954,T+00:49:14,I cannot access the fictional course recording; can someone help?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0177,TGA-P057,TGA-SYN-WEEK1,2973,T+00:49:33,What is the difference between training an AI model and using it for inference?,fictional_chat,AI Foundations,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0178,TGA-P058,TGA-SYN-WEEK1,2988,T+00:49:48,"Input validation, access controls and privacy review are useful layers in AI security. The next exercise explores this idea.",fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0179,TGA-P059,TGA-SYN-WEEK1,3006,T+00:50:06,I cannot access the fictional course recording; can someone help?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0180,TGA-P060,TGA-SYN-WEEK1,3027,T+00:50:27,Can you explain how an AI agent chooses a tool to call?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0181,TGA-P001,TGA-SYN-WEEK1,3037,T+00:50:37,How does an AI agent select and call external tools?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0182,TGA-P002,TGA-SYN-WEEK1,3046,T+00:50:46,What can improve the accuracy of retrieved documents in a RAG system?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0183,TGA-P003,TGA-SYN-WEEK1,3063,T+00:51:03,How should I store API credentials in a local development environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0184,TGA-P004,TGA-SYN-WEEK1,3082,T+00:51:22,Thanks!,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0185,TGA-P005,TGA-SYN-WEEK1,3096,T+00:51:36,How do I install Python packages in a virtual environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0186,TGA-P006,TGA-SYN-WEEK1,3117,T+00:51:57,Where is the recording from our fictional learning session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0187,TGA-P007,TGA-SYN-WEEK1,3126,T+00:52:06,What chunk size should I choose for splitting documents in RAG?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0188,TGA-P008,TGA-SYN-WEEK1,3137,T+00:52:17,How do I monitor a deployed application in production?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0189,TGA-P009,TGA-SYN-WEEK1,3158,T+00:52:38,How do I defend an AI application from malicious prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0190,TGA-P010,TGA-SYN-WEEK1,3170,T+00:52:50,How does an AI agent select and call external tools?,fictional_chat,Agentic AI,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0191,TGA-P011,TGA-SYN-WEEK1,3193,T+00:53:13,I plan to explore ai safety & security in a small fictional practice project. I will compare notes afterward.,fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0192,TGA-P012,TGA-SYN-WEEK1,3207,T+00:53:27,How can I avoid leaking private data to an AI model?,fictional_chat,AI Safety & Security,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0193,TGA-P013,TGA-SYN-WEEK1,3226,T+00:53:46,How can I avoid leaking private data to an AI model?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0194,TGA-P014,TGA-SYN-WEEK1,3237,T+00:53:57,What should I monitor after deploying my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0195,TGA-P015,TGA-SYN-WEEK1,3257,T+00:54:17,I plan to explore agentic ai in a small fictional practice project. I will compare notes afterward.,fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0196,TGA-P016,TGA-SYN-WEEK1,3265,T+00:54:25,What can improve the accuracy of retrieved documents in a RAG system?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0197,TGA-P017,TGA-SYN-WEEK1,3288,T+00:54:48,How do I get a language model to return consistent JSON output?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0198,TGA-P018,TGA-SYN-WEEK1,3301,T+00:55:01,What safeguards protect sensitive information in an AI workflow?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0199,TGA-P019,TGA-SYN-WEEK1,3321,T+00:55:21,What is machine learning and how does it learn from data?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0200,TGA-P020,TGA-SYN-WEEK1,3340,T+00:55:40,What is a good way to orchestrate several AI agents together?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0201,TGA-P021,TGA-SYN-WEEK1,3355,T+00:55:55,A virtual environment isolates package dependencies for one Python project. A small example makes this concrete.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0202,TGA-P022,TGA-SYN-WEEK1,3374,T+00:56:14,A virtual environment isolates package dependencies for one Python project.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0203,TGA-P023,TGA-SYN-WEEK1,3392,T+00:56:32,What is a good way to orchestrate several AI agents together?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0204,TGA-P024,TGA-SYN-WEEK1,3412,T+00:56:52,How can I protect an AI application against prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0205,TGA-P025,TGA-SYN-WEEK1,3434,T+00:57:14,What should I monitor after deploying my AI application?,fictional_chat,Project Implementation,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0206,TGA-P026,TGA-SYN-WEEK1,3445,T+00:57:25,The fictional course portal has separate areas for recordings and meeting links. A small example makes this concrete.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0207,TGA-P027,TGA-SYN-WEEK1,3465,T+00:57:45,How do I monitor a deployed application in production?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0208,TGA-P028,TGA-SYN-WEEK1,3481,T+00:58:01,I plan to explore course support in a small fictional practice project. I will compare notes afterward.,fictional_chat,Course Support,,SYNTHETIC DEMO DATA
+TGA-SYN-M0209,TGA-P029,TGA-SYN-WEEK1,3496,T+00:58:16,My Python package is not working in the virtual environment; can someone help?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0210,TGA-P030,TGA-SYN-WEEK1,3519,T+00:58:39,Great!,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0211,TGA-P031,TGA-SYN-WEEK1,3534,T+00:58:54,How should I choose document chunk sizes for a retrieval pipeline?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0212,TGA-P032,TGA-SYN-WEEK1,3547,T+00:59:07,How should I structure instructions and examples in a prompt?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0213,TGA-P033,TGA-SYN-WEEK1,3566,T+00:59:26,Thanks!,fictional_chat,Prompt Engineering,,SYNTHETIC DEMO DATA
+TGA-SYN-M0214,TGA-P034,TGA-SYN-WEEK1,3578,T+00:59:38,Where is the link for the next class meeting?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0215,TGA-P035,TGA-SYN-WEEK1,3587,T+00:59:47,Please explain the difference between model training and inference.,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0216,TGA-P036,TGA-SYN-WEEK1,3608,T+01:00:08,How do I monitor a deployed application in production?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0217,TGA-P037,TGA-SYN-WEEK1,3617,T+01:00:17,How do I improve document retrieval accuracy in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0218,TGA-P038,TGA-SYN-WEEK1,3640,T+01:00:40,How should I store API credentials in a local development environment?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0219,TGA-P039,TGA-SYN-WEEK1,3649,T+01:00:49,I plan to explore development tools in a small fictional practice project.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0220,TGA-P040,TGA-SYN-WEEK1,3673,T+01:01:13,The course recording link is not working; please help me access it.,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0221,TGA-P041,TGA-SYN-WEEK1,3696,T+01:01:36,What chunk size should I choose for splitting documents in RAG?,fictional_chat,Models & Architecture,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0222,TGA-P042,TGA-SYN-WEEK1,3711,T+01:01:51,I cannot install a Python package in my virtual environment; please help.,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0223,TGA-P043,TGA-SYN-WEEK1,3728,T+01:02:08,Nice!,fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0224,TGA-P044,TGA-SYN-WEEK1,3750,T+01:02:30,How do I improve document retrieval accuracy in RAG?,fictional_chat,Models & Architecture,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0225,TGA-P045,TGA-SYN-WEEK1,3762,T+01:02:42,Please explain the difference between model training and inference.,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0226,TGA-P046,TGA-SYN-WEEK1,3781,T+01:03:01,How can I deploy my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0227,TGA-P047,TGA-SYN-WEEK1,3802,T+01:03:22,Training adjusts model parameters using examples; inference applies them to new inputs. The next exercise explores this idea.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0228,TGA-P048,TGA-SYN-WEEK1,3818,T+01:03:38,I plan to explore agentic ai in a small fictional practice project.,fictional_chat,Agentic AI,,SYNTHETIC DEMO DATA
+TGA-SYN-M0229,TGA-P049,TGA-SYN-WEEK1,3839,T+01:03:59,How do I find the link to join the next class meeting?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0230,TGA-P050,TGA-SYN-WEEK1,3859,T+01:04:19,I plan to explore ai foundations in a small fictional practice project. I will compare notes afterward.,fictional_chat,AI Foundations,,SYNTHETIC DEMO DATA
+TGA-SYN-M0231,TGA-P051,TGA-SYN-WEEK1,3875,T+01:04:35,Please explain the difference between model training and inference.,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0232,TGA-P052,TGA-SYN-WEEK1,3895,T+01:04:55,How do I get a language model to return consistent JSON output?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0233,TGA-P053,TGA-SYN-WEEK1,3903,T+01:05:03,The course recording link is not working; please help me access it.,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0234,TGA-P054,TGA-SYN-WEEK1,3927,T+01:05:27,How can I deploy my AI application?,fictional_chat,Project Implementation,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0235,TGA-P055,TGA-SYN-WEEK1,3944,T+01:05:44,I plan to explore development tools in a small fictional practice project. I will compare notes afterward.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0236,TGA-P056,TGA-SYN-WEEK1,3953,T+01:05:53,How can I protect an AI application against prompt injection?,fictional_chat,AI Safety & Security,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0237,TGA-P057,TGA-SYN-WEEK1,3964,T+01:06:04,Can you explain how an AI agent chooses a tool to call?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0238,TGA-P058,TGA-SYN-WEEK1,3973,T+01:06:13,How can I make language model responses follow a JSON schema?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0239,TGA-P059,TGA-SYN-WEEK1,3985,T+01:06:25,Great!,fictional_chat,Project Implementation,,SYNTHETIC DEMO DATA
+TGA-SYN-M0240,TGA-P060,TGA-SYN-WEEK1,4004,T+01:06:44,My Python package is not working in the virtual environment; can someone help?,fictional_chat,Development Tools,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0241,TGA-P001,TGA-SYN-WEEK1,4024,T+01:07:04,Where can I access the recording of a course session?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0242,TGA-P002,TGA-SYN-WEEK1,4044,T+01:07:24,How should I structure instructions and examples in a prompt?,fictional_chat,Prompt Engineering,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0243,TGA-P003,TGA-SYN-WEEK1,4055,T+01:07:35,What is a good way to orchestrate several AI agents together?,fictional_chat,Agentic AI,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0244,TGA-P004,TGA-SYN-WEEK1,4063,T+01:07:43,What is a good way to orchestrate several AI agents together?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0245,TGA-P005,TGA-SYN-WEEK1,4084,T+01:08:04,Where is the recording from our fictional learning session?,fictional_chat,Course Support,False,SYNTHETIC DEMO DATA
+TGA-SYN-M0246,TGA-P006,TGA-SYN-WEEK1,4097,T+01:08:17,A virtual environment isolates package dependencies for one Python project. We can test this with a toy project.,fictional_chat,Development Tools,,SYNTHETIC DEMO DATA
+TGA-SYN-M0247,TGA-P007,TGA-SYN-WEEK1,4109,T+01:08:29,What is a good way to orchestrate several AI agents together?,fictional_chat,Agentic AI,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0248,TGA-P008,TGA-SYN-WEEK1,4133,T+01:08:53,What is the difference between training an AI model and using it for inference?,fictional_chat,AI Foundations,True,SYNTHETIC DEMO DATA
+TGA-SYN-M0249,TGA-P009,TGA-SYN-WEEK1,4146,T+01:09:06,"Input validation, access controls and privacy review are useful layers in AI security. We can test this with a toy project.",fictional_chat,AI Safety & Security,,SYNTHETIC DEMO DATA
+TGA-SYN-M0250,TGA-P010,TGA-SYN-WEEK1,4156,T+01:09:16,I cannot access the fictional course recording; can someone help?,fictional_chat,Course Support,True,SYNTHETIC DEMO DATA

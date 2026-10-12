@@ -1,0 +1,13 @@
+iso3,country,latitude,longitude,label_position
+IND,India,20.593684,78.96288,top center
+CAN,Canada,56.130366,-106.346771,top center
+USA,United States,37.09024,-95.712891,bottom center
+GBR,United Kingdom,55.378051,-3.435973,top left
+DEU,Germany,51.165691,10.451526,top right
+AUS,Australia,-25.274398,133.775136,top center
+SGP,Singapore,1.352083,103.819836,bottom right
+BRA,Brazil,-14.235004,-51.92528,top center
+NGA,Nigeria,9.081999,8.675277,top center
+ZAF,South Africa,-30.559482,22.937506,bottom center
+FRA,France,46.227638,2.213749,bottom left
+JPN,Japan,36.204824,138.252924,top right
