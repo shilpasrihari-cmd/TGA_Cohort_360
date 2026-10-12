@@ -14,11 +14,11 @@ st.markdown('''<style>
 </style>''', unsafe_allow_html=True)
 
 @st.cache_data
-def load_data():
+def load_mock_data():
     people,messages,_ = load_mock()
     return people,messages
 
-people, questions = load_data()
+people, questions = load_mock_data()
 def reset_filters():
     for key in ['regions', 'countries', 'topics', 'ai_topics']:
         st.session_state[key] = []

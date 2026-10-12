@@ -27,6 +27,20 @@ def test_authored_intents_match_detector():
     detected = detect_messages(messages.rename(columns={'message':'text'}))
     assert detected.is_question.tolist() == truth.is_question.tolist()
 
+def test_chat_adapter_never_uses_legacy_theme_generation(monkeypatch):
+    import src.synthetic_chat as adapter
+    people, messages, _ = load_mock()
+    def forbidden(*args):
+        raise AssertionError('Chat rows must not enter legacy generation')
+    monkeypatch.setattr(adapter, 'synthetic_messages', forbidden)
+    prepared = adapter.prepare_synthetic_messages(people, messages)
+    assert prepared.text.tolist() == messages.message.tolist()
+    assert len(prepared) == 250 and 'topic' not in prepared
+    assert prepared.attrs['synthetic'] is True
+    pd.testing.assert_frame_equal(adapter.prepare_synthetic_messages(people,prepared), prepared)
+    unsafe = messages.copy(); unsafe.attrs.clear()
+    with pytest.raises(ValueError): adapter.prepare_synthetic_messages(people,unsafe)
+
 @pytest.mark.parametrize('regions,countries', [([], []), (['Europe'], []), ([], ['India']), (['North America'], ['Canada']), (['Europe'], ['India'])])
 def test_mock_geography_reconciles(regions,countries):
     people, messages, _ = load_mock()

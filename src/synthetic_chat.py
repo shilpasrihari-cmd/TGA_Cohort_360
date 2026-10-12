@@ -29,6 +29,9 @@ EXTRA_QUESTIONS = [
 ]
 
 def synthetic_messages(participants, fixture_questions):
+    required = {'theme', 'question_id', 'participant_id', 'topic', 'has_identifiable_answer'}
+    if not required <= set(fixture_questions.columns):
+        raise ValueError('Legacy synthetic generation requires themed question fixtures; use prepare_synthetic_messages for chat rows.')
     rows = []
     for i, question in enumerate(fixture_questions.itertuples()):
         alternatives = PARAPHRASES[question.theme]
@@ -47,3 +50,12 @@ def synthetic_messages(participants, fixture_questions):
     result = pd.DataFrame(rows, columns=['message_id', 'participant_id', 'text', 'source_topic', 'has_identifiable_answer'])
     result.attrs['synthetic'] = True
     return result
+
+def prepare_synthetic_messages(participants, frame):
+    """Adapt fictional chat rows directly; generate only explicit legacy fixtures."""
+    if 'message' in frame.columns or 'text' in frame.columns:
+        if frame.attrs.get('synthetic') is not True:
+            raise ValueError('Only explicitly synthetic chat rows are supported.')
+        result = frame.rename(columns={'message':'text'}) if 'message' in frame.columns else frame.copy()
+        return result.drop(columns=['topic'], errors='ignore')
+    return synthetic_messages(participants, frame)

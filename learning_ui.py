@@ -5,7 +5,7 @@ import plotly.express as px
 import streamlit as st
 from src.embedding_model import LocalEmbedder, MODEL_DIR, ModelUnavailableError
 from src.topic_classifier import TopicClassifier
-from src.synthetic_chat import synthetic_messages
+from src.synthetic_chat import prepare_synthetic_messages
 from src.pipeline import analyze_messages, filter_intelligence
 from src.learning_analytics import summarize_learning, privacy_safe_export
 from src.mock_dataset import load_mock
@@ -31,7 +31,7 @@ def render_learning(participants, fixture_questions, filtered_participants, sour
         manifest_path = MODEL_DIR / 'download_manifest.json'
         revision = json.loads(manifest_path.read_text(encoding='utf-8'))['revision'] if manifest_path.exists() else 'local'
         embedder, classifier = local_resources(revision)
-        messages = fixture_questions.rename(columns={'message':'text'}).drop(columns=['topic'],errors='ignore') if 'message' in fixture_questions else synthetic_messages(participants, fixture_questions)
+        messages = prepare_synthetic_messages(participants, fixture_questions)
         result = intelligence_results(messages, revision, embedder, classifier)
     except ModelUnavailableError as error:
         st.warning(str(error))
